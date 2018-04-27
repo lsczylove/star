@@ -1,0 +1,51 @@
+2018-04-19T01:58:28.005Z - normal: Load ~/.CocosCreator/settings.json
+2018-04-19T01:58:28.005Z - normal: checking language setting...
+2018-04-19T01:58:28.005Z - normal: Language: zh
+2018-04-19T01:58:29.595Z - success: protocol editor-framework registered
+2018-04-19T01:58:29.595Z - success: protocol app registered
+2018-04-19T01:58:29.595Z - success: protocol theme registered
+2018-04-19T01:58:29.595Z - success: protocol profile registered
+2018-04-19T01:58:29.595Z - success: protocol packages registered
+2018-04-19T01:58:29.595Z - success: protocol unpack registerred
+2018-04-19T01:58:29.595Z - success: protocol disable-commonjs registerred
+2018-04-19T01:58:32.598Z - normal: failed to connect login server due to request timeout
+2018-04-19T01:58:32.601Z - normal: Check project D:\third\游戏构架\star game\start_project01
+2018-04-19T01:58:32.605Z - normal: Initializing Cocos2d
+2018-04-19T01:58:32.977Z - normal: Initializing Asset Database
+2018-04-19T01:58:33.007Z - success: protocol uuid registerred
+2018-04-19T01:58:33.007Z - success: protocol db registerred
+2018-04-19T01:58:33.007Z - success: protocol thumbnail registerred
+2018-04-19T01:58:33.007Z - normal: Loading editor/builtin packages
+2018-04-19T01:58:33.185Z - success: assets loaded
+2018-04-19T01:58:33.188Z - success: builder loaded
+2018-04-19T01:58:33.196Z - success: hierarchy loaded
+2018-04-19T01:58:33.199Z - success: inspector loaded
+2018-04-19T01:58:33.200Z - success: keystore loaded
+2018-04-19T01:58:33.203Z - success: node-library loaded
+2018-04-19T01:58:33.208Z - success: preferences loaded
+2018-04-19T01:58:33.229Z - success: project-importer loaded
+2018-04-19T01:58:33.231Z - success: project-settings loaded
+2018-04-19T01:58:33.233Z - success: ui-kit loaded
+2018-04-19T01:58:33.235Z - success: ui-grid loaded
+2018-04-19T01:58:33.238Z - success: scene loaded
+2018-04-19T01:58:33.240Z - success: sprite-editor loaded
+2018-04-19T01:58:33.311Z - success: store loaded
+2018-04-19T01:58:33.316Z - success: timeline loaded
+2018-04-19T01:58:33.316Z - normal: Loading builtin packages
+2018-04-19T01:58:33.319Z - success: anysdk loaded
+2018-04-19T01:58:33.320Z - success: asset-db-debugger loaded
+2018-04-19T01:58:33.322Z - success: code-editor loaded
+2018-04-19T01:58:33.323Z - success: color-picker loaded
+2018-04-19T01:58:33.326Z - success: console loaded
+2018-04-19T01:58:33.329Z - success: package-manager loaded
+2018-04-19T01:58:33.332Z - success: tester loaded
+2018-04-19T01:58:33.334Z - success: ui-kit-preview-extra loaded
+2018-04-19T01:58:33.335Z - success: ui-kit-preview loaded
+2018-04-19T01:58:33.338Z - success: ui-tree loaded
+2018-04-19T01:58:33.402Z - normal: Initializing project D:\third\游戏构架\star game\start_project01
+2018-04-19T01:58:33.405Z - normal: Loading packages
+2018-04-19T01:58:33.409Z - normal: Watching packages
+2018-04-19T01:58:33.427Z - normal: Run Application
+2018-04-19T01:58:33.945Z - success: preview server running at http://localhost:7456
+2018-04-19T01:58:38.593Z - normal: 1.4.0
+2018-04-19T01:59:00.506Z - info: shutdown preview server
